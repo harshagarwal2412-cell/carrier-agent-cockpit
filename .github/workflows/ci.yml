@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  web:
+    name: TypeScript app
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npm test
+      - run: npm run build
+
+  pipeline:
+    name: Python + SQL metrics pipeline
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+      - run: pip install -r pipeline/requirements.txt
+      - name: Regenerate event data and verify it is reproducible
+        run: |
+          python pipeline/generate.py
+          git diff --exit-code -- pipeline/data/*.csv
+      - name: Compute every cockpit metric in SQL
+        run: python pipeline/metrics.py
+      - name: Test SQL metrics against the dashboard
+        run: pytest pipeline -v
