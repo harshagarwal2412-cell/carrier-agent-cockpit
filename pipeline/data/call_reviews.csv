@@ -1,0 +1,251 @@
+review_id,failure_mode,cost,owner,load_value_usd
+1,Special instruction dropped,Fall-off / TONU,Product,4012
+2,Special instruction dropped,Fall-off / TONU,Product,3720
+3,Special instruction dropped,Fall-off / TONU,Product,2756
+4,Special instruction dropped,Fall-off / TONU,Product,3250
+5,Special instruction dropped,Fall-off / TONU,Product,2859
+6,Special instruction dropped,Fall-off / TONU,Product,2331
+7,Special instruction dropped,Fall-off / TONU,Product,5196
+8,Special instruction dropped,Fall-off / TONU,Product,5327
+9,Special instruction dropped,Fall-off / TONU,Product,3279
+10,Special instruction dropped,Fall-off / TONU,Product,2273
+11,Special instruction dropped,Fall-off / TONU,Product,3141
+12,Special instruction dropped,Fall-off / TONU,Product,4164
+13,Special instruction dropped,Fall-off / TONU,Product,4563
+14,Special instruction dropped,Fall-off / TONU,Product,3339
+15,Special instruction dropped,Fall-off / TONU,Product,2549
+16,Special instruction dropped,Fall-off / TONU,Product,2455
+17,Special instruction dropped,Fall-off / TONU,Product,4018
+18,Special instruction dropped,Fall-off / TONU,Product,3562
+19,Special instruction dropped,Fall-off / TONU,Product,4264
+20,Special instruction dropped,Fall-off / TONU,Product,2927
+21,Special instruction dropped,Fall-off / TONU,Product,3665
+22,Special instruction dropped,Fall-off / TONU,Product,2335
+23,Special instruction dropped,Fall-off / TONU,Product,3867
+24,Special instruction dropped,Fall-off / TONU,Product,2380
+25,Special instruction dropped,Fall-off / TONU,Product,2575
+26,Special instruction dropped,Fall-off / TONU,Product,3464
+27,Special instruction dropped,Fall-off / TONU,Product,3752
+28,Special instruction dropped,Fall-off / TONU,Product,3803
+29,Special instruction dropped,Fall-off / TONU,Product,5231
+30,Special instruction dropped,Fall-off / TONU,Product,3770
+31,Special instruction dropped,Fall-off / TONU,Product,2468
+32,Special instruction dropped,Fall-off / TONU,Product,1745
+33,Special instruction dropped,Fall-off / TONU,Product,2420
+34,Special instruction dropped,Fall-off / TONU,Product,3185
+35,Special instruction dropped,Fall-off / TONU,Product,4206
+36,Special instruction dropped,Fall-off / TONU,Product,1129
+37,Special instruction dropped,Fall-off / TONU,Product,1914
+38,Special instruction dropped,Fall-off / TONU,Product,3855
+39,Special instruction dropped,Fall-off / TONU,Product,6580
+40,Special instruction dropped,Fall-off / TONU,Product,4174
+41,Special instruction dropped,Fall-off / TONU,Product,2298
+42,Special instruction dropped,Fall-off / TONU,Product,3122
+43,Special instruction dropped,Fall-off / TONU,Product,4158
+44,Special instruction dropped,Fall-off / TONU,Product,3576
+45,Special instruction dropped,Fall-off / TONU,Product,1215
+46,Special instruction dropped,Fall-off / TONU,Product,2640
+47,Special instruction dropped,Fall-off / TONU,Product,5210
+48,Special instruction dropped,Fall-off / TONU,Product,6436
+49,Special instruction dropped,Fall-off / TONU,Product,2972
+50,Special instruction dropped,Fall-off / TONU,Product,1271
+51,Special instruction dropped,Fall-off / TONU,Product,3411
+52,Special instruction dropped,Fall-off / TONU,Product,2286
+53,Special instruction dropped,Fall-off / TONU,Product,1297
+54,Special instruction dropped,Fall-off / TONU,Product,2324
+55,Special instruction dropped,Fall-off / TONU,Product,2125
+56,Special instruction dropped,Fall-off / TONU,Product,2747
+57,Special instruction dropped,Fall-off / TONU,Product,3602
+58,Special instruction dropped,Fall-off / TONU,Product,2786
+59,Special instruction dropped,Fall-off / TONU,Product,4435
+60,Special instruction dropped,Fall-off / TONU,Product,2892
+61,Special instruction dropped,Fall-off / TONU,Product,2977
+62,Special instruction dropped,Fall-off / TONU,Product,3180
+63,Special instruction dropped,Fall-off / TONU,Product,1545
+64,Special instruction dropped,Fall-off / TONU,Product,2008
+65,Special instruction dropped,Fall-off / TONU,Product,2839
+66,Special instruction dropped,Fall-off / TONU,Product,2760
+67,Special instruction dropped,Fall-off / TONU,Product,2523
+68,Special instruction dropped,Fall-off / TONU,Product,1823
+69,Anchored high on a soft lane,Margin,Pricing,4487
+70,Anchored high on a soft lane,Margin,Pricing,3191
+71,Anchored high on a soft lane,Margin,Pricing,2650
+72,Anchored high on a soft lane,Margin,Pricing,6045
+73,Anchored high on a soft lane,Margin,Pricing,3017
+74,Anchored high on a soft lane,Margin,Pricing,2393
+75,Anchored high on a soft lane,Margin,Pricing,3001
+76,Anchored high on a soft lane,Margin,Pricing,2127
+77,Anchored high on a soft lane,Margin,Pricing,2793
+78,Anchored high on a soft lane,Margin,Pricing,1821
+79,Anchored high on a soft lane,Margin,Pricing,4152
+80,Anchored high on a soft lane,Margin,Pricing,2698
+81,Anchored high on a soft lane,Margin,Pricing,4351
+82,Anchored high on a soft lane,Margin,Pricing,3028
+83,Anchored high on a soft lane,Margin,Pricing,3903
+84,Anchored high on a soft lane,Margin,Pricing,2505
+85,Anchored high on a soft lane,Margin,Pricing,3363
+86,Anchored high on a soft lane,Margin,Pricing,2519
+87,Anchored high on a soft lane,Margin,Pricing,1402
+88,Anchored high on a soft lane,Margin,Pricing,2953
+89,Anchored high on a soft lane,Margin,Pricing,5380
+90,Anchored high on a soft lane,Margin,Pricing,2668
+91,Anchored high on a soft lane,Margin,Pricing,3294
+92,Anchored high on a soft lane,Margin,Pricing,3483
+93,Anchored high on a soft lane,Margin,Pricing,3241
+94,Anchored high on a soft lane,Margin,Pricing,3424
+95,Anchored high on a soft lane,Margin,Pricing,1860
+96,Anchored high on a soft lane,Margin,Pricing,2226
+97,Anchored high on a soft lane,Margin,Pricing,2434
+98,Anchored high on a soft lane,Margin,Pricing,2707
+99,Anchored high on a soft lane,Margin,Pricing,4517
+100,Anchored high on a soft lane,Margin,Pricing,5077
+101,Anchored high on a soft lane,Margin,Pricing,1934
+102,Anchored high on a soft lane,Margin,Pricing,3116
+103,Anchored high on a soft lane,Margin,Pricing,4114
+104,Anchored high on a soft lane,Margin,Pricing,2080
+105,Anchored high on a soft lane,Margin,Pricing,2784
+106,Anchored high on a soft lane,Margin,Pricing,3397
+107,Anchored high on a soft lane,Margin,Pricing,4921
+108,Anchored high on a soft lane,Margin,Pricing,2377
+109,Anchored high on a soft lane,Margin,Pricing,4113
+110,Anchored high on a soft lane,Margin,Pricing,3640
+111,Anchored high on a soft lane,Margin,Pricing,4631
+112,Anchored high on a soft lane,Margin,Pricing,3955
+113,Anchored high on a soft lane,Margin,Pricing,3177
+114,Anchored high on a soft lane,Margin,Pricing,2841
+115,Anchored high on a soft lane,Margin,Pricing,3153
+116,Anchored high on a soft lane,Margin,Pricing,2727
+117,Anchored high on a soft lane,Margin,Pricing,4919
+118,Anchored high on a soft lane,Margin,Pricing,2900
+119,Anchored high on a soft lane,Margin,Pricing,2353
+120,Anchored high on a soft lane,Margin,Pricing,3071
+121,Anchored high on a soft lane,Margin,Pricing,3523
+122,Anchored high on a soft lane,Margin,Pricing,2686
+123,Equipment mismatch surfaced late,Wasted call,Matching,4905
+124,Equipment mismatch surfaced late,Wasted call,Matching,2525
+125,Equipment mismatch surfaced late,Wasted call,Matching,7536
+126,Equipment mismatch surfaced late,Wasted call,Matching,1759
+127,Equipment mismatch surfaced late,Wasted call,Matching,3830
+128,Equipment mismatch surfaced late,Wasted call,Matching,2118
+129,Equipment mismatch surfaced late,Wasted call,Matching,3630
+130,Equipment mismatch surfaced late,Wasted call,Matching,1475
+131,Equipment mismatch surfaced late,Wasted call,Matching,4150
+132,Equipment mismatch surfaced late,Wasted call,Matching,2098
+133,Equipment mismatch surfaced late,Wasted call,Matching,1966
+134,Equipment mismatch surfaced late,Wasted call,Matching,4096
+135,Equipment mismatch surfaced late,Wasted call,Matching,3221
+136,Equipment mismatch surfaced late,Wasted call,Matching,1904
+137,Equipment mismatch surfaced late,Wasted call,Matching,2356
+138,Equipment mismatch surfaced late,Wasted call,Matching,2825
+139,Equipment mismatch surfaced late,Wasted call,Matching,4877
+140,Equipment mismatch surfaced late,Wasted call,Matching,2233
+141,Equipment mismatch surfaced late,Wasted call,Matching,2507
+142,Equipment mismatch surfaced late,Wasted call,Matching,2580
+143,Equipment mismatch surfaced late,Wasted call,Matching,3184
+144,Equipment mismatch surfaced late,Wasted call,Matching,2830
+145,Equipment mismatch surfaced late,Wasted call,Matching,5796
+146,Equipment mismatch surfaced late,Wasted call,Matching,2897
+147,Equipment mismatch surfaced late,Wasted call,Matching,6782
+148,Equipment mismatch surfaced late,Wasted call,Matching,2181
+149,Equipment mismatch surfaced late,Wasted call,Matching,5760
+150,Equipment mismatch surfaced late,Wasted call,Matching,2268
+151,Equipment mismatch surfaced late,Wasted call,Matching,2775
+152,Equipment mismatch surfaced late,Wasted call,Matching,4608
+153,Equipment mismatch surfaced late,Wasted call,Matching,2399
+154,Equipment mismatch surfaced late,Wasted call,Matching,2354
+155,Equipment mismatch surfaced late,Wasted call,Matching,3349
+156,Equipment mismatch surfaced late,Wasted call,Matching,2642
+157,Equipment mismatch surfaced late,Wasted call,Matching,5000
+158,Equipment mismatch surfaced late,Wasted call,Matching,4230
+159,Equipment mismatch surfaced late,Wasted call,Matching,3495
+160,Equipment mismatch surfaced late,Wasted call,Matching,4903
+161,Equipment mismatch surfaced late,Wasted call,Matching,3526
+162,Equipment mismatch surfaced late,Wasted call,Matching,2571
+163,Equipment mismatch surfaced late,Wasted call,Matching,4589
+164,Carrier abandoned during vetting,Lost supply,Trust & safety,3056
+165,Carrier abandoned during vetting,Lost supply,Trust & safety,4307
+166,Carrier abandoned during vetting,Lost supply,Trust & safety,1897
+167,Carrier abandoned during vetting,Lost supply,Trust & safety,2229
+168,Carrier abandoned during vetting,Lost supply,Trust & safety,2171
+169,Carrier abandoned during vetting,Lost supply,Trust & safety,3535
+170,Carrier abandoned during vetting,Lost supply,Trust & safety,2703
+171,Carrier abandoned during vetting,Lost supply,Trust & safety,2522
+172,Carrier abandoned during vetting,Lost supply,Trust & safety,2147
+173,Carrier abandoned during vetting,Lost supply,Trust & safety,4636
+174,Carrier abandoned during vetting,Lost supply,Trust & safety,3379
+175,Carrier abandoned during vetting,Lost supply,Trust & safety,2776
+176,Carrier abandoned during vetting,Lost supply,Trust & safety,4798
+177,Carrier abandoned during vetting,Lost supply,Trust & safety,2312
+178,Carrier abandoned during vetting,Lost supply,Trust & safety,2341
+179,Carrier abandoned during vetting,Lost supply,Trust & safety,4412
+180,Carrier abandoned during vetting,Lost supply,Trust & safety,4442
+181,Carrier abandoned during vetting,Lost supply,Trust & safety,2031
+182,Carrier abandoned during vetting,Lost supply,Trust & safety,1766
+183,Carrier abandoned during vetting,Lost supply,Trust & safety,2902
+184,Carrier abandoned during vetting,Lost supply,Trust & safety,5013
+185,Carrier abandoned during vetting,Lost supply,Trust & safety,2619
+186,Carrier abandoned during vetting,Lost supply,Trust & safety,3766
+187,Carrier abandoned during vetting,Lost supply,Trust & safety,2250
+188,Carrier abandoned during vetting,Lost supply,Trust & safety,2333
+189,Carrier abandoned during vetting,Lost supply,Trust & safety,5822
+190,Carrier abandoned during vetting,Lost supply,Trust & safety,3259
+191,Carrier abandoned during vetting,Lost supply,Trust & safety,2607
+192,Carrier abandoned during vetting,Lost supply,Trust & safety,2766
+193,Carrier abandoned during vetting,Lost supply,Trust & safety,3430
+194,Carrier abandoned during vetting,Lost supply,Trust & safety,3005
+195,Carrier abandoned during vetting,Lost supply,Trust & safety,2907
+196,Carrier abandoned during vetting,Lost supply,Trust & safety,3800
+197,Carrier abandoned during vetting,Lost supply,Trust & safety,3400
+198,Carrier abandoned during vetting,Lost supply,Trust & safety,2412
+199,Carrier abandoned during vetting,Lost supply,Trust & safety,2262
+200,Carrier abandoned during vetting,Lost supply,Trust & safety,2558
+201,Carrier abandoned during vetting,Lost supply,Trust & safety,3468
+202,Carrier abandoned during vetting,Lost supply,Trust & safety,2404
+203,"Agent looped, carrier hung up",Carrier trust,Product,2638
+204,"Agent looped, carrier hung up",Carrier trust,Product,2874
+205,"Agent looped, carrier hung up",Carrier trust,Product,3559
+206,"Agent looped, carrier hung up",Carrier trust,Product,2526
+207,"Agent looped, carrier hung up",Carrier trust,Product,3791
+208,"Agent looped, carrier hung up",Carrier trust,Product,2437
+209,"Agent looped, carrier hung up",Carrier trust,Product,2866
+210,"Agent looped, carrier hung up",Carrier trust,Product,4268
+211,"Agent looped, carrier hung up",Carrier trust,Product,2147
+212,"Agent looped, carrier hung up",Carrier trust,Product,3958
+213,"Agent looped, carrier hung up",Carrier trust,Product,2289
+214,"Agent looped, carrier hung up",Carrier trust,Product,3044
+215,"Agent looped, carrier hung up",Carrier trust,Product,2590
+216,"Agent looped, carrier hung up",Carrier trust,Product,2591
+217,"Agent looped, carrier hung up",Carrier trust,Product,1864
+218,"Agent looped, carrier hung up",Carrier trust,Product,3833
+219,"Agent looped, carrier hung up",Carrier trust,Product,2376
+220,"Agent looped, carrier hung up",Carrier trust,Product,3874
+221,"Agent looped, carrier hung up",Carrier trust,Product,3611
+222,"Agent looped, carrier hung up",Carrier trust,Product,3505
+223,"Agent looped, carrier hung up",Carrier trust,Product,1608
+224,"Agent looped, carrier hung up",Carrier trust,Product,5321
+225,"Agent looped, carrier hung up",Carrier trust,Product,3560
+226,"Agent looped, carrier hung up",Carrier trust,Product,3245
+227,"Agent looped, carrier hung up",Carrier trust,Product,5358
+228,"Agent looped, carrier hung up",Carrier trust,Product,5145
+229,"Agent looped, carrier hung up",Carrier trust,Product,4618
+230,"Escalated, no human available",Coverage delay,Ops,4811
+231,"Escalated, no human available",Coverage delay,Ops,1650
+232,"Escalated, no human available",Coverage delay,Ops,2899
+233,"Escalated, no human available",Coverage delay,Ops,3500
+234,"Escalated, no human available",Coverage delay,Ops,2941
+235,"Escalated, no human available",Coverage delay,Ops,2558
+236,"Escalated, no human available",Coverage delay,Ops,3623
+237,"Escalated, no human available",Coverage delay,Ops,2795
+238,"Escalated, no human available",Coverage delay,Ops,2937
+239,"Escalated, no human available",Coverage delay,Ops,2419
+240,"Escalated, no human available",Coverage delay,Ops,4904
+241,"Escalated, no human available",Coverage delay,Ops,2803
+242,"Escalated, no human available",Coverage delay,Ops,2065
+243,"Escalated, no human available",Coverage delay,Ops,2684
+244,"Escalated, no human available",Coverage delay,Ops,5633
+245,"Escalated, no human available",Coverage delay,Ops,7373
+246,"Escalated, no human available",Coverage delay,Ops,4983
+247,"Escalated, no human available",Coverage delay,Ops,2112
+248,"Escalated, no human available",Coverage delay,Ops,3023
+249,"Escalated, no human available",Coverage delay,Ops,5676
+250,"Escalated, no human available",Coverage delay,Ops,2615

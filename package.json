@@ -1,0 +1,30 @@
+{
+  "name": "carrier-agent-cockpit",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Metrics design for AI agents running carrier conversations at scale: outcome vs. activity metrics, a metric tree, and a one-screen cockpit.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -b --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "export:targets": "tsx scripts/export-targets.ts"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tsx": "^4.23.15",
+    "typescript": "~5.6.3",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.8"
+  }
+}

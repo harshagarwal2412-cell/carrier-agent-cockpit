@@ -1,0 +1,226 @@
+{
+  "segments": {
+    "all": {
+      "label": "All carriers",
+      "tiles": [
+        {
+          "t": "Loads covered / rep-day",
+          "v": "75",
+          "d": "+11 vs. Q prior",
+          "c": "up"
+        },
+        {
+          "t": "Covered with no human",
+          "v": "62%",
+          "d": "+13 pts / 12 wk",
+          "c": "up"
+        },
+        {
+          "t": "Median time to cover",
+          "v": "35m",
+          "d": "p90 · 2h 39m",
+          "c": "flat"
+        },
+        {
+          "t": "D30 repeat-book rate",
+          "v": "34%",
+          "d": "+2 pts / 12 wk",
+          "c": "up"
+        },
+        {
+          "t": "Rate delta vs. target",
+          "v": "+1.5%",
+          "d": "over target buy",
+          "c": "down"
+        }
+      ],
+      "funnel": [
+        176,
+        412,
+        268,
+        190,
+        75
+      ]
+    },
+    "oo": {
+      "label": "Owner-operator (1–5 trucks)",
+      "tiles": [
+        {
+          "t": "Loads covered / rep-day",
+          "v": "82",
+          "d": "+14 vs. Q prior",
+          "c": "up"
+        },
+        {
+          "t": "Covered with no human",
+          "v": "67%",
+          "d": "+15 pts / 12 wk",
+          "c": "up"
+        },
+        {
+          "t": "Median time to cover",
+          "v": "31m",
+          "d": "p90 · 2h 09m",
+          "c": "flat"
+        },
+        {
+          "t": "D30 repeat-book rate",
+          "v": "41%",
+          "d": "+5 pts / 12 wk",
+          "c": "up"
+        },
+        {
+          "t": "Rate delta vs. target",
+          "v": "+0.9%",
+          "d": "over target buy",
+          "c": "flat"
+        }
+      ],
+      "funnel": [
+        176,
+        468,
+        274,
+        205,
+        81
+      ]
+    },
+    "sf": {
+      "label": "Small fleet (6–30 trucks)",
+      "tiles": [
+        {
+          "t": "Loads covered / rep-day",
+          "v": "77",
+          "d": "+9 vs. Q prior",
+          "c": "up"
+        },
+        {
+          "t": "Covered with no human",
+          "v": "60%",
+          "d": "+12 pts / 12 wk",
+          "c": "up"
+        },
+        {
+          "t": "Median time to cover",
+          "v": "36m",
+          "d": "p90 · 2h 44m",
+          "c": "flat"
+        },
+        {
+          "t": "D30 repeat-book rate",
+          "v": "33%",
+          "d": "+1 pt / 12 wk",
+          "c": "flat"
+        },
+        {
+          "t": "Rate delta vs. target",
+          "v": "+1.6%",
+          "d": "over target buy",
+          "c": "down"
+        }
+      ],
+      "funnel": [
+        176,
+        401,
+        281,
+        196,
+        79
+      ]
+    },
+    "mf": {
+      "label": "Mid fleet (31+ trucks)",
+      "tiles": [
+        {
+          "t": "Loads covered / rep-day",
+          "v": "64",
+          "d": "+4 vs. Q prior",
+          "c": "flat"
+        },
+        {
+          "t": "Covered with no human",
+          "v": "48%",
+          "d": "+6 pts / 12 wk",
+          "c": "up"
+        },
+        {
+          "t": "Median time to cover",
+          "v": "54m",
+          "d": "p90 · 4h 12m",
+          "c": "down"
+        },
+        {
+          "t": "D30 repeat-book rate",
+          "v": "22%",
+          "d": "−1 pt / 12 wk",
+          "c": "down"
+        },
+        {
+          "t": "Rate delta vs. target",
+          "v": "+3.1%",
+          "d": "over target buy",
+          "c": "down"
+        }
+      ],
+      "funnel": [
+        176,
+        318,
+        226,
+        148,
+        51
+      ]
+    }
+  },
+  "autonomy": [
+    49,
+    49,
+    51,
+    50,
+    53,
+    55,
+    55,
+    57,
+    59,
+    60,
+    61,
+    62
+  ],
+  "escalation": [
+    19.5,
+    19.1,
+    18.4,
+    18.8,
+    17.2,
+    16.4,
+    16.9,
+    15.1,
+    14.4,
+    13.8,
+    13,
+    12.4
+  ],
+  "cohorts": [
+    {
+      "l": "W1",
+      "v": 29
+    },
+    {
+      "l": "W2",
+      "v": 31
+    },
+    {
+      "l": "W3",
+      "v": 30
+    },
+    {
+      "l": "W4",
+      "v": 35
+    },
+    {
+      "l": "W5",
+      "v": 37
+    },
+    {
+      "l": "W6",
+      "v": 34
+    }
+  ]
+}
